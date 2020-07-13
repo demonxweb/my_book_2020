@@ -1,0 +1,475 @@
+<!DOCTYPE html>
+<html>
+<head itemscope itemtype="http://schema.org/WebSite">
+    <meta charset="UTF-8" />
+        <title itemprop='name'>全台最大口碑體驗分享平台 - BloggerAds 分享，創造你的價值</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    
+    <meta name="keywords" content="部落客,Facebook,社群媒體,活動案件,網路口碑,免費體驗,開箱文,試吃試用,免費試用,網友評價,問卷調查,口碑行銷" />
+    <meta name="description" content="口碑行銷，找BloggerAds。全台灣最大的部落客會員媒體社群，提供會員最多元的免費體驗與專業的廣告服務、問卷調查。運用分享的力量、精準的投放、優質的服務，領先同業的最佳口碑公司。">
+    <meta property="og:site_name" content="BloggerAds 分享，創造你的價值" />
+    <meta property="og:type" content="website">
+    <meta property="og:image" content="https://www.bloggerads.net/images/fb/facebook.png" />
+    <meta property="og:url" content="https://www.bloggerads.net" />
+    <meta property="og:title" content="全台最大口碑體驗分享平台 - BloggerAds 分享，創造你的價值" />
+    <meta property="og:description" content="口碑行銷，找BloggerAds。全台灣最大的部落客會員媒體社群，提供會員最多元的免費體驗與專業的廣告服務、問卷調查。運用分享的力量、精準的投放、優質的服務，領先同業的最佳口碑公司。" />
+
+    <link rel="shortcut icon" href="/favicon.ico">
+    <link href="/images/ios/apple-icon-57x57.png" rel="apple-touch-icon-precomposed" sizes="57x57" />
+    <link href="/images/ios/apple-icon-72x72.png" rel="apple-touch-icon-precomposed" sizes="72x72" />
+    <link href="/images/ios/apple-icon-114x114.png" rel="apple-touch-icon-precomposed" sizes="114x114" />
+    <link href="/images/ios/apple-icon-144x144.png" rel="apple-touch-icon-precomposed" sizes="144x144" />
+    <link href="/Content/css?v=PokNsU0HeVzLhWNBw09RgDXFANa0kTxSxYZoa01B4lg1" rel="stylesheet"/>
+
+    
+    <link media="screen" rel="stylesheet" href="/css/index.css?20200508" />
+
+</head>
+<body>
+    <!--Wrap start-->
+    <div id="PageTop" class="Wrap">
+        <!--Header start-->
+        <div class="Header">
+            <div class="Inner">
+                <!--Logo start-->
+                <div class="Logo">
+                    <a href="/" title="BloggerAds - 部落格行銷">
+                        <img src="/images/logo.svg" alt="BloggerAds-分享，創造你的價值">BloggerAds-分享，創造你的價值
+                    </a>
+                </div>
+                <p>
+                    <img src="/images/slogan.svg?20170223" alt="BloggerAds-分享，創造你的價值">分享，創造你的價值
+                </p>
+                <!--Logo end-->
+                    <ul class="NavLogin">
+                        <li><a href="/Login" title="登入">登入</a></li>
+                        <li><a href="/Register" title="註冊">註冊</a></li>
+                    </ul>
+                <div class="MemberSignedIn">
+                    <ul>
+                        <li>
+                            <a href="/Notification" title="通知提醒">
+                                <i class="icon-notice"></i>
+                                <span class="Badges"></span>
+                            </a>
+                        </li>
+                        <li>
+                            <a class="BtnNavMember" title="會員中心">
+                                <div class="LoginIcon">
+                                    <img id="imgMemberLevelIcon" src="" alt="會員等級圖示">
+                                </div>
+                            </a>
+                            <!-- 會員選單 Start -->
+                            <div id="menuMember" class="DropMenu">
+                                <a class="BtnNavMemberClose">會員功能<i class="icon-del"></i></a>
+                                <ul class="NavMemberWrap">
+                                    <li>
+                                        <div class="Title">收益管理</div>
+                                        <ul>
+                                            <li><a href="/Income" title="收益報告">收益報告</a></li>
+                                            <li><a href="/Withdraw" title="提領收益">提領收益</a></li>
+                                            <li><a href="/Withdraw/Record" title="提領記錄">提領記錄</a></li>
+                                            <li><a href="/AccountManage" title="管理帳戶">管理帳戶</a></li>
+                                        </ul>
+                                    </li>
+                                    <li>
+                                        <div class="Title">Q幣與訂單</div>
+                                        <ul>
+                                            <li><a href="/QProductReport/Report" title="Q幣報表">Q幣報表</a></li>
+                                            <li><a href="/QProductReport/Record" title="訂單資料">訂單資料</a></li>
+                                        </ul>
+                                    </li>
+                                    <li>
+                                        <div class="Title">我的帳戶</div>
+                                        <ul>
+                                            <li><a href="/Profile/ProfileEdit" title="個人資料">個人資料</a></li>
+                                            <li><a href="/Profile/BindFacebook" title="綁定帳號">綁定帳號</a></li>
+                                            <li><a href="/FansPage" title="facebook">facebook</a></li>
+                                            <li><a href="/Blog" title="部落格">部落格</a></li>
+                                            <li><a href="/Instagram" title="Instagram">Instagram</a></li>
+                                            <li><a href="/Youtube" title="Youtube">Youtube</a></li>
+                                            <li><a href="/Profile/NoticeManager" title="通知設定">通知設定</a></li>
+                                            <li><a href="/Profile/ChangePassword" title="修改密碼">修改密碼</a></li>
+                                            <li><a href="/Home/Logout" title="登出">登出</a></li>
+                                        </ul>
+                                    </li>
+                                </ul>
+                            </div>
+                            <!-- 會員選單 End -->
+                        </li>
+                    </ul>
+                </div>
+                <div class="SearchBarWrap">
+                    <a class="BtnSearch" href="javascript:$('#search').addClass('Active');" title="選單"><i class="icon-search"></i></a>
+                    <div id="search" class="DropMenu">
+                        <a class="BtnSearchClose" href="javascript:$('#search').removeClass('Active');">搜尋<i class="icon-del"></i></a>
+                        <div class="SearchBarBox">
+                            <div class="SearchBar">
+                                <form action="/Home/Search" method="post">
+                                    <fieldset class="Panel">
+                                        <legend>搜尋</legend>
+                                        <div class="PanelBody">
+                                            <input name="keyword" type="search" class="M" placeholder="找案件、問卷、最新消息" required>
+                                            <button type="submit" class="Btn SearchBtn"><i class="icon-search"></i><span>搜尋</span></button>
+                                        </div>
+                                    </fieldset>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="Nav">
+                <a class="BtnNav" title="選單"><i class="icon-nav"></i></a>
+                <div id="menuNav" class="DropMenu">
+                    <a class="BtnNavClose">選單<i class="icon-del"></i></a>
+                    <ul class="Nav">
+                        
+                        <li id="menuCase"><a href="/Case/Index" title="活動案件"><i class="icon-edit"></i>活動案件</a></li>
+                        <li id="menuQuse"><a href="/Questionnaire" title="問卷專區"><i class="icon-survey"></i>問卷專區</a></li>
+                        <li id="menuRecommend"><a href="/Product" title="推薦商品"><i class="icon-push"></i>推薦商品</a></li>
+                        <li id="menuQProduct"><a href="/QProduct" title="Q 幣商城"><i class="icon-money"></i>Q 幣商城</a></li>
+                            <li id="menuRoulette"><a href="/Roulette" title="Q 幣遊戲"><i class="icon-money"></i>Q 幣遊戲</a></li>
+                        <li id="menuNews"><a href="/News" title="最新消息"><i class="icon-news"></i>最新消息</a></li>
+                        <li id="menuPublicWelfare"><a href="/Portal/PublicWelfare" title="公益聯盟"><i class="icon-favorite"></i>公益聯盟</a></li>
+                        <li id="menuHowToPlay" class="ItemLast"><a href="/Portal/HowToPlay" title="怎麼玩 ba"><i class="icon-score"></i>怎麼玩 ba</a></li>
+                        <li id="menuFaq" class="HideLg"><a href="/Faq" title="常見問題"><i class="icon-qa"></i>常見問題</a></li>
+                        <li id="menuAbout" class="HideLg"><a href="/About" title="關於我們"><i class="icon-about"></i>關於我們</a></li>
+                        <li id="menuContact" class="HideLg"><a href="/Contact" title="聯絡我們"><i class="icon-contact"></i>聯絡我們</a></li>
+                        <li class="HideLg"><a href="http://www.dotmoremedia.com/" target="_blank" title="廣告主專區"><i class="icon-advertisers"></i>廣告主專區</a></li>
+                        <li class="HideLg"><a href="https://www.facebook.com/BloggerAds/?fref=ts" title="BloggerAds粉絲團" target="_blank"><i class="icon-fb"></i>BloggerAds粉絲團</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <!--Header End-->
+        <!--Content start-->
+        
+        <div class="Banner">
+            <!-- 輪播-mobile使用 Start -->
+            <div class="CarouselWrap CarouselWeb">
+                <div class="CarouselInner">
+                    <ul class="Imglist">
+                            <li id="Banner6" class="ImgItem">
+                                    <a href="http://bit.ly/2baS0sH" title="活動案件" target="_blank">
+                                        <img id="ImgWebBanner6" class="Resize"
+                                             src="//d1e162yg4o0uim.cloudfront.net/Files/Billboard/Web/cb14f052f56f479fac76dfbd119ea293.jpg" alt="活動案件" style="display:none;">
+                                        <img id="ImgMobileBanner6" class="Resize"
+                                             src="//d1e162yg4o0uim.cloudfront.net/Files/Billboard/Mobile/78106c868a8c486999fba7a7e5aaefcd.jpg" alt="活動案件" style="display:none;">
+                                    </a>
+                            </li>
+                            <li id="Banner76" class="ImgItem">
+                                    <a href="https://taopai.me/" title="討拍改版" target="_blank">
+                                        <img id="ImgWebBanner76" class="Resize"
+                                             src="//d1e162yg4o0uim.cloudfront.net/Files/Billboard/Web/d464d8cf183e4f9abab7efc91b6dec27.jpg" alt="討拍改版" style="display:none;">
+                                        <img id="ImgMobileBanner76" class="Resize"
+                                             src="//d1e162yg4o0uim.cloudfront.net/Files/Billboard/Mobile/a4e26773914e405397e583b6c298db87.jpg" alt="討拍改版" style="display:none;">
+                                    </a>
+                            </li>
+                            <li id="Banner7" class="ImgItem">
+                                    <a href="http://www.bloggerads.net/News" title="最新消息" target="_blank">
+                                        <img id="ImgWebBanner7" class="Resize"
+                                             src="//d1e162yg4o0uim.cloudfront.net/Files/Billboard/Web/69a7daaf23544839a5bbf2c4a8372688.jpg" alt="最新消息" style="display:none;">
+                                        <img id="ImgMobileBanner7" class="Resize"
+                                             src="//d1e162yg4o0uim.cloudfront.net/Files/Billboard/Mobile/11c5add71de443eca9c3ab77cfdbccc2.jpg" alt="最新消息" style="display:none;">
+                                    </a>
+                            </li>
+                            <li id="Banner53" class="ImgItem">
+                                    <a href="http://bit.ly/2kSdPRS" title="會員等級banner" target="_blank">
+                                        <img id="ImgWebBanner53" class="Resize"
+                                             src="//d1e162yg4o0uim.cloudfront.net/Files/Billboard/Web/39b430c764fe47ab90c6e5f4d09573c5.jpg" alt="會員等級banner" style="display:none;">
+                                        <img id="ImgMobileBanner53" class="Resize"
+                                             src="//d1e162yg4o0uim.cloudfront.net/Files/Billboard/Mobile/85c398737d0643fb8da9370b3898fadc.jpg" alt="會員等級banner" style="display:none;">
+                                    </a>
+                            </li>
+                    </ul>
+                </div>
+                <div class="CarouselBtn">
+                    <ul>
+                            <li>活動案件</li>
+                            <li>討拍改版</li>
+                            <li>最新消息</li>
+                            <li>會員等級banner</li>
+                    </ul>
+                </div>
+                <!-- 控制輪播 Start -->
+                <a class="BtnPrevious"><i class="icon-previous"></i></a>
+                <a class="BtnNext"><i class="icon-next"></i></a>
+            </div>
+        </div>
+    <div class="Content">
+        <!--前台活動數值 Start-->
+        <div class="BoxCount BoxCountEvent">
+                <ul>
+                    <li>會員數<span>362,796</span></li>
+                    <li>線上活動<span>45</span></li>
+                    <li>累積參加人數<span>32,821</span></li>
+                    <li>總活動數<span>8,695</span></li>
+                </ul>
+        </div>
+        <!--前台活動數值 End-->
+        <!--會員各項數值 Start-->
+        <div class="BoxCount BoxCountMember" style="display: none;">
+        </div>
+        <!--會員各項數值 End-->
+        <!--公告列表 Start-->
+        <!--公告列表 End-->
+        <!--活動案件 Start-->
+            <div class="Section SectionEvent">
+                <div class="SectionTitle">活動案件</div>
+                <input type="hidden" id="tabData" value="null" />
+                <ul class="Tab">
+                    <li id="TabAll" class="Current"><a title="全部">全部</a></li>
+                </ul>
+                <div id="divTabAll" class="ListEventWrap Show">
+                    <ul class="ItemList ListEvent"></ul>
+                    <div class="BtnBox">
+                        <a class="Btn BtnMd BtnLoading" href="/Case" title="看更多案件">看更多案件</a>
+                    </div>
+                </div>
+                <div id="divTabNResponse" class="ListEventWrap">
+                    <ul class="ItemList ListEvent"></ul>
+                    <div class="BtnBox">
+                        <a class="Btn BtnMd BtnLoading" href="/Case" title="看更多案件">看更多案件</a>
+                    </div>
+                </div>
+                <div id="divTabNoFinish" class="ListEventWrap">
+                    <ul class="ItemList ListEvent"></ul>
+                    <div class="BtnBox">
+                        <a class="Btn BtnMd BtnLoading" href="/Case" title="看更多案件">看更多案件</a>
+                    </div>
+                </div>
+                <div id="divTabVerify" class="ListEventWrap">
+                    <ul class="ItemList ListEvent"></ul>
+                    <div class="BtnBox">
+                        <a class="Btn BtnMd BtnLoading" href="/Case" title="看更多案件">看更多案件</a>
+                    </div>
+                </div>
+                <div id="divTabNResit" class="ListEventWrap">
+                    <ul class="ItemList ListEvent"></ul>
+                    <div class="BtnBox">
+                        <a class="Btn BtnMd BtnLoading" href="/Case" title="看更多案件">看更多案件</a>
+                    </div>
+                </div>
+                <div id="divTabNFinish" class="ListEventWrap">
+                    <ul class="ItemList ListEvent"></ul>
+                    <div class="BtnBox">
+                        <a class="Btn BtnMd BtnLoading" href="/Case" title="看更多案件">看更多案件</a>
+                    </div>
+                </div>
+                <div id="divTabCompleted" class="ListEventWrap">
+                    <ul class="ItemList ListEvent"></ul>
+                    <div class="BtnBox">
+                        <a class="Btn BtnMd BtnLoading" href="/Case" title="看更多案件">看更多案件</a>
+                    </div>
+                </div>
+                <input type="hidden" id="CaseData" value="{&quot;CaseAll&quot;:[{&quot;CaseInfoId&quot;:8933,&quot;Title&quot;:&quot;SMAiLiFACE舒妍選凍膜 喚起保濕方程式&quot;,&quot;ImageUrl&quot;:&quot;//d1e162yg4o0uim.cloudfront.net/Files/Case/880f547dbd2a4f4880c27b5e78e9bacb.jpg&quot;,&quot;IsPublic&quot;:true,&quot;CaseTypeName&quot;:&quot;體驗品&quot;,&quot;SelectAnnounceDate&quot;:&quot;0001-01-01T00:00:00&quot;,&quot;JoinLimit&quot;:100,&quot;SignUpEndDate&quot;:&quot;2020-07-19T00:00:00&quot;,&quot;AwardAnnounceDate&quot;:&quot;2020-08-20T00:00:00&quot;,&quot;CaseIndustryName&quot;:&quot;美妝保養&quot;,&quot;EndDateCount&quot;:7,&quot;CaseMemberStatus&quot;:0,&quot;IsAward&quot;:true,&quot;StartDate&quot;:&quot;2020-07-28T00:00:00&quot;,&quot;EndDate&quot;:&quot;2020-08-09T00:00:00&quot;,&quot;IsSignUpNeedCheck&quot;:1,&quot;MsgList&quot;:null,&quot;RemainingPlace&quot;:100,&quot;PostCount&quot;:0,&quot;Preface&quot;:null,&quot;ArticlePublishFromDate&quot;:&quot;0001-01-01T00:00:00&quot;,&quot;ArticlePublishEndDate&quot;:&quot;0001-01-01T00:00:00&quot;,&quot;ArticleAllocateDate&quot;:&quot;0001-01-01T00:00:00&quot;,&quot;OrderWeight&quot;:0,&quot;AdsPutInPlatform&quot;:1,&quot;ViewAward&quot;:false,&quot;IsLimit&quot;:0,&quot;LiClass&quot;:null,&quot;CaseStatus&quot;:0,&quot;ReplyItemCount&quot;:0,&quot;IsHistory&quot;:false},{&quot;CaseInfoId&quot;:8934,&quot;Title&quot;:&quot;DF美肌醫生 分子酊全能修護精華 釘住你的肌膚水分！&quot;,&quot;ImageUrl&quot;:&quot;//d1e162yg4o0uim.cloudfront.net/Files/Case/99fca73fc05f4dd28ec7ac3ccf4df625.jpg&quot;,&quot;IsPublic&quot;:true,&quot;CaseTypeName&quot;:&quot;體驗品&quot;,&quot;SelectAnnounceDate&quot;:&quot;0001-01-01T00:00:00&quot;,&quot;JoinLimit&quot;:100,&quot;SignUpEndDate&quot;:&quot;2020-07-16T00:00:00&quot;,&quot;AwardAnnounceDate&quot;:&quot;2020-08-26T00:00:00&quot;,&quot;CaseIndustryName&quot;:&quot;美妝保養&quot;,&quot;EndDateCount&quot;:4,&quot;CaseMemberStatus&quot;:0,&quot;IsAward&quot;:false,&quot;StartDate&quot;:&quot;2020-07-25T00:00:00&quot;,&quot;EndDate&quot;:&quot;2020-08-15T00:00:00&quot;,&quot;IsSignUpNeedCheck&quot;:1,&quot;MsgList&quot;:null,&quot;RemainingPlace&quot;:100,&quot;PostCount&quot;:0,&quot;Preface&quot;:null,&quot;ArticlePublishFromDate&quot;:&quot;0001-01-01T00:00:00&quot;,&quot;ArticlePublishEndDate&quot;:&quot;0001-01-01T00:00:00&quot;,&quot;ArticleAllocateDate&quot;:&quot;0001-01-01T00:00:00&quot;,&quot;OrderWeight&quot;:0,&quot;AdsPutInPlatform&quot;:1,&quot;ViewAward&quot;:false,&quot;IsLimit&quot;:0,&quot;LiClass&quot;:null,&quot;CaseStatus&quot;:0,&quot;ReplyItemCount&quot;:0,&quot;IsHistory&quot;:false},{&quot;CaseInfoId&quot;:8927,&quot;Title&quot;:&quot;奇蹟辣木孅女茶 讓你嗯嗯不卡卡&quot;,&quot;ImageUrl&quot;:&quot;//d1e162yg4o0uim.cloudfront.net/Files/Case/ccbc5263a3ae45658e242921797acd43.jpg&quot;,&quot;IsPublic&quot;:true,&quot;CaseTypeName&quot;:&quot;體驗品&quot;,&quot;SelectAnnounceDate&quot;:&quot;0001-01-01T00:00:00&quot;,&quot;JoinLimit&quot;:100,&quot;SignUpEndDate&quot;:&quot;2020-07-19T00:00:00&quot;,&quot;AwardAnnounceDate&quot;:&quot;2020-08-26T00:00:00&quot;,&quot;CaseIndustryName&quot;:&quot;健康保健&quot;,&quot;EndDateCount&quot;:7,&quot;CaseMemberStatus&quot;:0,&quot;IsAward&quot;:false,&quot;StartDate&quot;:&quot;2020-07-31T00:00:00&quot;,&quot;EndDate&quot;:&quot;2020-08-12T00:00:00&quot;,&quot;IsSignUpNeedCheck&quot;:1,&quot;MsgList&quot;:null,&quot;RemainingPlace&quot;:100,&quot;PostCount&quot;:0,&quot;Preface&quot;:null,&quot;ArticlePublishFromDate&quot;:&quot;0001-01-01T00:00:00&quot;,&quot;ArticlePublishEndDate&quot;:&quot;0001-01-01T00:00:00&quot;,&quot;ArticleAllocateDate&quot;:&quot;0001-01-01T00:00:00&quot;,&quot;OrderWeight&quot;:0,&quot;AdsPutInPlatform&quot;:1,&quot;ViewAward&quot;:false,&quot;IsLimit&quot;:0,&quot;LiClass&quot;:null,&quot;CaseStatus&quot;:0,&quot;ReplyItemCount&quot;:0,&quot;IsHistory&quot;:false},{&quot;CaseInfoId&quot;:8928,&quot;Title&quot;:&quot;放大振興三倍卷！精省旅遊景點懶人包&quot;,&quot;ImageUrl&quot;:&quot;//d1e162yg4o0uim.cloudfront.net/Files/Case/062f4b4bcde74d68b648c8165e92fdc4.jpg&quot;,&quot;IsPublic&quot;:true,&quot;CaseTypeName&quot;:&quot;好讚分享&quot;,&quot;SelectAnnounceDate&quot;:&quot;0001-01-01T00:00:00&quot;,&quot;JoinLimit&quot;:130,&quot;SignUpEndDate&quot;:&quot;2020-07-14T00:00:00&quot;,&quot;AwardAnnounceDate&quot;:&quot;2020-07-27T00:00:00&quot;,&quot;CaseIndustryName&quot;:&quot;旅遊&quot;,&quot;EndDateCount&quot;:2,&quot;CaseMemberStatus&quot;:0,&quot;IsAward&quot;:false,&quot;StartDate&quot;:&quot;2020-07-06T00:00:00&quot;,&quot;EndDate&quot;:&quot;2020-07-14T00:00:00&quot;,&quot;IsSignUpNeedCheck&quot;:0,&quot;MsgList&quot;:null,&quot;RemainingPlace&quot;:34,&quot;PostCount&quot;:0,&quot;Preface&quot;:null,&quot;ArticlePublishFromDate&quot;:&quot;0001-01-01T00:00:00&quot;,&quot;ArticlePublishEndDate&quot;:&quot;0001-01-01T00:00:00&quot;,&quot;ArticleAllocateDate&quot;:&quot;0001-01-01T00:00:00&quot;,&quot;OrderWeight&quot;:0,&quot;AdsPutInPlatform&quot;:2,&quot;ViewAward&quot;:false,&quot;IsLimit&quot;:0,&quot;LiClass&quot;:null,&quot;CaseStatus&quot;:0,&quot;ReplyItemCount&quot;:0,&quot;IsHistory&quot;:false}],&quot;CaseNResponse&quot;:null,&quot;CaseVerify&quot;:null,&quot;CaseNRegist&quot;:null,&quot;CaseNFinish&quot;:null,&quot;CaseCompleted&quot;:null}" />
+            </div>
+        <!--活動案件 End-->
+        <!-- 站內行銷版位 Start -->
+        <div class="BannerBox">
+            <div class="BannerBloggerArticle BannerAdv">
+                <a href="http://news.bloggerads.net/" target="_blank">
+                    <img src="/images/banner_bloggerads_article_1116.jpg" alt="Bloggerads文章館">
+                </a>
+            </div>
+            <div class="BannerBloggerTeach BannerAdv">
+                <a href="/Portal/Blog" target="_blank">
+                    <img src="/images/banner_blog_teach_200108.jpg" alt="部落格教室">
+                </a>
+            </div>
+        </div>
+        <!-- 站內行銷版位 End -->
+        <!--網友A評價 Start-->
+        
+        <!--網友A評價 End-->
+        <!--問卷活動 Start-->
+        <input type="hidden" id="quesnnaireData" value="[]" />
+        <!--問卷活動 End-->
+        <!-- 站內行銷版位 Start -->
+		<div class="BannerBox Single">
+			<div class="BannerAdv">
+				<a href="/QProduct" title="Q幣商城">
+					<img src="/images/banner_2020q2.jpg" alt="Q幣商城">
+				</a>
+			</div>
+		</div>
+        <div class="BannerBox">
+            <div class="BannerBloggerArticle BannerAdv">
+                <a href="https://www.bloggerads.net/kol3th?utm_source=bloggerads&utm_medium=banner&utm_campaign=kol3th" title="2019榮耀榜">
+                    <img src="/images/banner_index_2019kol_award.jpg" alt="2019榮耀榜">
+                </a>
+            </div>
+            <div class="BannerBloggerTeach BannerAdv">
+                <a href="http://www.beautyblog.com.tw/" target="_blank" title="前往美妝教主">
+                    <img src="/images/banner_index_beauty.jpg" alt="美妝教主">
+                </a>
+            </div>
+        </div>
+        <!-- 站內行銷版位 End -->
+        <!--網紅影音 Start-->
+        <input type="hidden" id="mediaData" value="[]" />
+        <!--網紅影音 End-->
+        <input type="hidden" id="ImageCDNPath" value="//d1e162yg4o0uim.cloudfront.net" />
+        <input type="hidden" id="MemberRole" />
+        <!--fb粉絲團 Start-->
+        <div class="FbFans">
+            <div id="fb-root"></div>
+            <script>
+                (function (d, s, id) {
+                    var js, fjs = d.getElementsByTagName(s)[0];
+                    if (d.getElementById(id)) return;
+                    js = d.createElement(s); js.id = id;
+                    js.src = "//connect.facebook.net/zh_TW/sdk.js#xfbml=1&version=v2.8&appId=191224364270908";
+                    fjs.parentNode.insertBefore(js, fjs);
+                }(document, 'script', 'facebook-jssdk'));</script>
+            <div class="fb-page" data-href="https://www.facebook.com/BloggerAds/?fref=ts" data-width="970px" data-small-header="false" data-adapt-container-width="false" data-hide-cover="false" data-show-facepile="true">
+                <div class="fb-xfbml-parse-ignore">
+                    <blockquote cite="https://www.facebook.com/BloggerAds/?fref=ts"><a href="https://www.facebook.com/BloggerAds/?fref=ts">BloggerAds</a></blockquote>
+                </div>
+            </div>
+        </div>
+        <!--fb粉絲團 End-->
+    </div>
+
+        
+
+
+
+
+
+
+        <div class="MenuAside">
+            <ul class="AsideBanner">
+                <li>
+                    <a href="https://line.me/R/ti/p/%40mqv5475c" title="歡迎加入我們的LINE@即時獲取案件資訊" target="_blank">
+                        <picture>
+                            <!--[if IE 9]><video style="display: none;"><![endif]-->
+                            <source srcset="/images/menu_addline_phone.jpg" media="(max-width: 767px)">
+                            <source srcset="/images/menu_addline_pad.jpg" media="(max-width: 1023px)">
+                            <source srcset="/images/menu_addline_default.jpg" media="(min-width: 1024px)">
+                            <!--[if IE 9]></video><![endif]-->
+                            <img src="/images/menu_addline_default.jpg" alt="歡迎加入我們的LINE@即時獲取案件資訊">
+                        </picture>
+                    </a>
+                </li>
+                <li>
+                    <a href="https://lin.ee/xxWf0ZA" title="加入youtube line@" target="_blank">
+                        <picture>
+                            <!--[if IE 9]><video style="display: none;"><![endif]-->
+                            <source srcset="/images/menu_addline_youtube_phone.jpg" media="(max-width: 767px)">
+                            <source srcset="/images/menu_addline_youtube_normal.jpg" media="(min-width: 768px)">
+                            <!--[if IE 9]></video><![endif]-->
+                            <img src="/images/menu_addline_youtube_default.jpg" alt="加入youtube line@">
+                        </picture>
+                    </a>
+                </li>
+            </ul>
+        </div>
+        <input type="hidden" id="MainData" value="{&quot;IsLogin&quot;:false,&quot;NoticeCount&quot;:0,&quot;MemberLevelIcon&quot;:null}" />
+        <!--Content end-->
+        <!--Footer start-->
+        <div class="Footer">
+            <div class="Inner">
+                <ul class="NavFooter">
+                    <li><a href="/" title="首頁">首頁</a></li>
+                    <li><a href="/Case/Index" title="活動案件">活動案件</a></li>
+                    <li><a href="/Questionnaire" title="問卷專區">問卷專區</a></li>
+                    
+                    <li><a href="/Product" title="推薦商品">推薦商品</a></li>
+                    <li><a href="/QProduct" title="Q 幣商城">Q 幣商城</a></li>
+                        <li><a href="/Roulette" title="Q 幣遊戲">Q 幣遊戲</a></li>
+                    <li><a href="/Faq" title="常見問題">常見問題</a></li>
+                    <li><a href="/About" title="關於我們">關於我們</a></li>
+                    <li><a href="/Contact" title="聯絡我們">聯絡我們</a></li>
+                    <li><a href="http://www.dotmoremedia.com/" target="_blank" title="廣告主專區">廣告主專區</a></li>
+                    <li><a href="https://www.facebook.com/BloggerAds/?fref=ts" title="BloggerAds粉絲團" target="_blank">BloggerAds粉絲團</a></li>
+                </ul>
+                <div class="Copyright">
+                    部落格行銷 BloggerAds <strong>達摩媒體股份有限公司</strong>
+                </div>
+                <!-- 聯絡資訊 Start -->
+                <ul class="Contactlist">
+                    <li>客服電話：<a href="tel:02-2570-8111" title="連絡客服人員">(02)2570-8111</a></li>
+                    <li>客服信箱：<a href="mailto:service@bloggerads.net" title="聯絡信箱">service@bloggerads.net</a></li>
+                </ul>
+                <!-- 聯絡資訊 Start -->
+                <!-- QrApp Start -->
+                <ul class="QrApp">
+                    <li>
+                        <div class="Imgbox">
+                            <a href="https://line.me/R/ti/p/%40mqv5475c" title="歡迎加入我們的LINE@"><img src="/images/footer_addline.png" alt="歡迎加入我們的LINE@"></a>
+                        </div>
+                        <div class="Title">歡迎加入我們的LINE@</div>
+                    </li>
+                </ul>
+                <!-- QrApp End -->
+            </div>
+        </div>
+        <!--Footer end-->
+    </div>
+    
+    <!--Wrap end-->
+    
+    
+    <div class="GoTop">
+        <a href="#PageTop" class="BtnGotop" title="回頂端">
+            <span><i class="icon-gotop"></i></span>
+        </a>
+    </div>
+    <script src="/bundles/jquery?v=NUrN-_JoHgPsaJsEeat7QrZ7NjArV_VwwUi_LaOiAz81"></script>
+
+    <script src="/Scripts/Main.js?20180418"></script>
+    
+    <script src="/Scripts/jquery.easing.1.3.js"></script>
+    <script src="/Scripts/Banner.js?0110"></script>
+    <script src="/Scripts/Home.js?20200508"></script>
+
+    <script>
+        
+
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date(); a = s.createElement(o),
+            m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-1689570-1', 'auto');
+        ga('send', 'pageview');
+
+        $(function () {
+            if (new Date() < new Date('2019-06-13 09:00:00')) {
+                var cookie = getCookie("DowntimeNotice0613");
+                if (cookie == "") {
+                    $('.PopupDowntime').addClass("Show");
+                    setCookie("DowntimeNotice0613", "True", 5);
+                }
+            }
+        });
+
+        function setCookie(cname, cvalue, exdays) {
+            var d = new Date();
+            d.setTime(d.getTime() + (exdays * 24 * 60 * 60 * 1000));
+            var expires = "expires=" + d.toUTCString();
+            document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/";
+        }
+
+        function getCookie(cname) {
+            var name = cname + "=";
+            var ca = document.cookie.split(';');
+            for (var i = 0; i < ca.length; i++) {
+                var c = ca[i];
+                while (c.charAt(0) == ' ') {
+                    c = c.substring(1);
+                }
+                if (c.indexOf(name) == 0) {
+                    return c.substring(name.length, c.length);
+                }
+            }
+            return "";
+        }
+
+    </script>
+</body>
+</html>
